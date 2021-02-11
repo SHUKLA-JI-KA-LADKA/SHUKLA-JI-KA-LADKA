@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm VAIBHAV SHUKLA</h1>
-<img align="center" src="https://github.com/SHUKLA-JI-KA-LADKA/SHUKLA-JI-KA-LADKA/blob/main/hey%20there!%20vaibhav%20here.mp4">
+<img align="center" src="https://github.com/SHUKLA-JI-KA-LADKA/SHUKLA-JI-KA-LADKA/blob/main/hey%20there!%20vaibhav%20here.mp4"/>
+
 
 <h3 align="center">A passionate Programmer from India</h3>
 
