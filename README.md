@@ -15,7 +15,7 @@
 
 
 
-
+<img align="right" src="https://github.com/SHUKLA-JI-KA-LADKA/SHUKLA-JI-KA-LADKA/blob/main/LEVI.gif">
 
 
 
@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shukla-ji-ka-ladka&" alt="shukla-ji-ka-ladka" /></p>
 
-<img align="right" src="https://github.com/SHUKLA-JI-KA-LADKA/SHUKLA-JI-KA-LADKA/blob/main/LEVI.gif">
+
