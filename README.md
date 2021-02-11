@@ -15,7 +15,7 @@
 
 
 
-<img align="right" src="https://github.com/SHUKLA-JI-KA-LADKA/SHUKLA-JI-KA-LADKA/blob/main/LEVI.gif">
+<img align="right bottom" src="https://github.com/SHUKLA-JI-KA-LADKA/SHUKLA-JI-KA-LADKA/blob/main/LEVI.gif">
 
 
 
