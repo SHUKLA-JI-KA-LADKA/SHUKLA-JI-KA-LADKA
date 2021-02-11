@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/SHUKLA-JI-KA-LADKA/SHUKLA-JI-KA-LADKA/blob/main/ezgif.com-video-to-gif.gif">
+<img align="right" src="https://github.com/SHUKLA-JI-KA-LADKA/SHUKLA-JI-KA-LADKA/blob/main/ezgif.com-video-to-gif.gif">
 
 <h1 align="center">Hi 👋, I'm VAIBHAV SHUKLA</h1>
 
