@@ -30,7 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shukla-ji-ka-ladka&show_icons=true&locale=en" alt="shukla-ji-ka-ladka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shukla-ji-ka-ladka&" alt="shukla-ji-ka-ladka" /> 
-  <h1 align="LEFT">CREATIVITY IS ALL U NEED</h1>
+ 
   <img align="right" src="https://github.com/SHUKLA-JI-KA-LADKA/SHUKLA-JI-KA-LADKA/blob/main/LEVI.gif"></p>
-
+ <h1 align="LEFT">CREATIVITY IS ALL U NEED</h1>
 
