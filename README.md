@@ -9,8 +9,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@yashshukla65" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@yashshukla65" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vaibhav shukla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vaibhav shukla" height="30" width="40" /></a>
-<a href="https://instagram.com/vaibhav_shukla65" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vaibhav_shukla65" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shukla-vaibhav/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vaibhav shukla" height="30" width="40" /></a>
+
 </p>
 
 
